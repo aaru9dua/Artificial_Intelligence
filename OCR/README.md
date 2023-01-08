@@ -1,14 +1,4 @@
-# Elements of AI
 
-## Assignment 3
-
------------------
-### TEAM MEMBERS:
------------------
-
-**Aarushi Dua - aarudua** <br>
-**Kalyani Malokar - kmalokar** <br>
-**Sai Teja Burla - saburla** <br>
 
 -------------------------------------------
 ### Problem - 1 (Part-of-Speech Tagging):
